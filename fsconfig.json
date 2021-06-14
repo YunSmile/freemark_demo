@@ -1,0 +1,9 @@
+{
+  "ftlRoot": "dist/ftl",
+  "cmsDomain": "",
+  "static": "static|build|dist|mock",
+  "route": {},
+  "globalData": {
+    "isMobile": false
+  }
+}

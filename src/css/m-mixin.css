@@ -1,0 +1,14 @@
+.g-module {
+  color: #333;
+
+  .module-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .module-desc {
+    margin-top: 20px;
+    color: #666;
+  }
+}
